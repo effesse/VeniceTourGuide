@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">Venice Tour Guide</string>
+
+    <!-- Category name for restaurant category [CHAR LIMIT=20] -->
+    <string name="category_restaurant">Restaurant</string>
+
+    <!-- Category name for sightseeing category [CHAR LIMIT=20] -->
+    <string name="category_sightseeing">Sightseeing</string>
+
+    <!-- Category name for accomodation category [CHAR LIMIT=20] -->
+    <string name="category_accomodation">Accomodation</string>
+
+    <!-- Category name for shopping category [CHAR LIMIT=20] -->
+    <string name="category_shopping">Shopping</string>
+
+    <string name="location_title">Basilica di San Marco</string>
+    <string name="location_address">Piazza San Marco, 328</string>
+
+    <!-- list fo strings for sightseeing category -->
+    <string name="basilica">Basilica di San Marco</string>
+    <string name="basilica_address">Piazza San Marco, 328</string>
+    <string name="dogespalace">Doge\'s palace</string>
+    <string name="dogespalace_address">Piazza San Marco, 1</string>
+    <string name="lafenice">Teatro La Fenice</string>
+    <string name="lafenice_address">Campo San Fantin, 1965</string>
+    <string name="rialto">Ponte di Rialto</string>
+    <string name="rialto_address">Ponte di Rialto, San Marco</string>
+    <string name="pontedeipugni">Ponte dei Pugni</string>
+    <string name="pontedeipugni_address">Ponte dei Pugni, Dorsoduro</string>
+    <string name="accademia">Gallerie dell\'Accademia</string>
+    <string name="accademia_address">Campo Della Carità, 1050</string>
+    <string name="frari">Santa Maria Gloriosa dei Frari</string>
+    <string name="frari_address">Campo dei Frari, San Polo”</string>
+    <string name="fondaco">Fondaco dei Tedeschi</string>
+    <string name="fondaco_address">“calle del Fondaco”</string>
+
+
+    <!-- list fo strings for restaurant category -->
+    <string name="cipriani">Hotel Cipriani</string>
+    <string name="cipriani_address">Giudecca, 10</string>
+    <string name="fiore">Da Fiore</string>
+    <string name="fiore_address">Calle del Scaleter, S.Polo 2202/A</string>
+    <string name="monaco">Hotel Monaco &amp; Grand Canal</string>
+    <string name="monaco_address">Calle Vallaresso, S.Marco 1325</string>
+    <string name="boccadoro">Osteria Boccadoro</string>
+    <string name="boccadoro_address">Campo Widman, Cannaregio 5405</string>
+    <string name="cortesconta">Corte Sconta</string>
+    <string name="cortesconta_address">Calle del Pestrin, Castello 3886</string>
+    <string name="doforni">Do Forni</string>
+    <string name="doforni_address">Calle Specchieri, S Marco 468</string>
+    <string name="gigio">Vini Da Gigio</string>
+    <string name="gigio_address">Fondamenta S.Felice, Cannaregio 3628/A</string>
+    <string name="bitta">La Bitta</string>
+    <string name="bitta_address">Calle Lunga de San Barnaba, Dorsoduro</string>
+
+    <!-- list fo strings for accomodation category -->
+    <string name="dogi">Grand Hotel Palazzo dei Dogi</string>
+    <string name="dogi_address">Fondamenta Madonna dell’Orto, Cannaregio 3500</string>
+    <string name="aman">Aman Venice</string>
+    <string name="aman_address">San Polo 1364</string>
+    <string name="bauer">Bauer Palazzo</string>
+    <string name="bauer_address">Campo San Moisè, S.Marco 1459</string>
+    <string name="excelsior">Excelsior Venice Lido Resort</string>
+    <string name="excelsior_address">Lungomare Marconi 41, Lido</string>
+    <string name="hcipriani">Hotel Cipriani</string>
+    <string name="hcipriani_address">Giudecca 10</string>
+    <string name="danieli">Do Forni</string>
+    <string name="danieli_address">Riva degli Schiavoni, Castello 4196</string>
+    <string name="jw">JW Marriott Venice Resort</string>
+    <string name="jw_address">Isole delle Rose, Venice Lagoon</string>
+    <string name="westin">The Westin Europa &amp; Regina</string>
+    <string name="westin_address">Corte Barozzi, S.Marco 2159</string>
+
+
+    <!-- list fo strings for shopping category -->
+    <string name="macana">Ca\' Macana</string>
+    <string name="macana_address">Calle delle Botteghe, Dorsoduro 3172</string>
+    <string name="nardi">Nardi</string>
+    <string name="nardi_address">Piazza S Marco 69, S.Marco</string>
+    <string name="bevilacqua">Luigi Bevilacqua</string>
+    <string name="bevilacqua_address">Campiello della Comare, S.Croce 1320</string>
+    <string name="venini">Venini</string>
+    <string name="venini_address">Piazzetta Leoncini, S.Marco 314</string>
+    <string name="attombri">Attombri</string>
+    <string name="attombri_address">Sottoportico degli Orefici, S.Polo 65</string>
+    <string name="rizzo">Rizzo</string>
+    <string name="rizzo_address">Salizzada S.Giovanni Crisostomo, Cannaregio 5778</string>
+    <string name="rubelli">Rubelli</string>
+    <string name="rubelli_address">Campiello del Teatro, S.Marco 3877</string>
+    <string name="olbi">Paolo Olbi</string>
+    <string name="olbi_address">Dorsoduro 3253/A</string>
+</resources>
