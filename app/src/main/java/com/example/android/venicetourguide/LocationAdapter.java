@@ -46,19 +46,19 @@ public class LocationAdapter extends ArrayAdapter<Location>{
         Location currentLocation = getItem(position);
 
         // Find the TextView in the list_view.xml layout with the ID version_name
-        TextView miwokTextView = (TextView) listItemView.findViewById(R.id.location_name);
-        // Get the version name from the current Word object and
+        TextView locationTextView = (TextView) listItemView.findViewById(R.id.location_name);
+        // Get the version name from the current Location object and
         // set this text on the name TextView
-        miwokTextView.setText(currentLocation.getLocationName());
+        locationTextView.setText(currentLocation.getLocationName());
 
         // Find the TextView in the list_view.xml layout with the ID version_name
-        TextView defaultTextView = (TextView) listItemView.findViewById(R.id.location_address);
-        // Get the version name from the current Word object and
+        TextView addressTextView = (TextView) listItemView.findViewById(R.id.location_address);
+        // Get the version name from the current Location object and
         // set this text on the name TextView
-        defaultTextView.setText(currentLocation.getLocationAddress());
+        addressTextView.setText(currentLocation.getLocationAddress());
 
         // Find the ImageView in the list_item.xml layout with the ID image.
-        ImageView imageView = (ImageView) listItemView.findViewById(R.id.image);
+        ImageView imageView = (ImageView) listItemView.findViewById(R.id.location_thumbnail);
         // Check if an image is provided for this word or not
         if (currentLocation.hasImage()) {
             // If an image is available, display the provided image based on the resource ID

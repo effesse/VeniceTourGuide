@@ -8,7 +8,7 @@
     <string name="category_sightseeing">Sightseeing</string>
 
     <!-- Category name for accomodation category [CHAR LIMIT=20] -->
-    <string name="category_accomodation">Accomodation</string>
+    <string name="category_accomodation">Hotel</string>
 
     <!-- Category name for shopping category [CHAR LIMIT=20] -->
     <string name="category_shopping">Shopping</string>
@@ -89,4 +89,185 @@
     <string name="rubelli_address">Campiello del Teatro, S.Marco 3877</string>
     <string name="olbi">Paolo Olbi</string>
     <string name="olbi_address">Dorsoduro 3253/A</string>
+
+    <!-- list fo strings for location detail category -->
+    <string name="basilica_phone">041 270 8311</string>
+    <string name="basilica_url">www.basilicasanmarco.it</string>
+    <string name="basilica_description">The breathtaking Byzantine basilica dominating Piazza San Marco was constructed
+        in such ornate fashion for two reasons: as an embodiment of the Venetian Republic’s power and as a fitting resting
+        place for St Mark. Serving as the doges’ chapel, it was the site of coronations, funerals and processions,
+        all gloriously framed by more than 4,000 sq m (43,000 sq ft) of mosaics, eastern treasures and 500 columns,
+        some dating back to the 3rd century.
+        \n1. Western Façade
+        \nA marvellous succession of domes, columns, arches and spires, interspersed with marble statues,
+        screens and glittering mosaics, greets tourists in Piazza San Marco. The northernmost arch houses
+        13th-century mosaics that depict the basilica itself. Other mosaics are 17th- and 18th-century copies.
+        \n2. Atrium Mosaics
+        \nThese glorious mosaics of precious gold-leaf over glass tiles were created in the Byzantine tradition
+        by expert craftsmen, and give detailed accounts of the Old Testament. The 13th-century cupola’s concentric
+        circles recount 24 episodes from Genesis, including the Creation and Adam and Eve.
+        \n3. Flooring
+        \nThe elaborate paving is a mosaic masterpiece of multicoloured stones on uneven levels,
+        evocative of the sea. Intricate geometrical designs sit alongside animal shapes.
+        \n4. Pala d'Oro
+        \nThe dazzling jewel-encrusted gold screen was commissioned in Constantinople in 976 but
+        frequently added to at later dates. It boasts 250 panels bearing 1,927 authentic gems and cloisonné plaques.
+        \n5. The Tetrarchs
+        \nThe inspiration for these red porphyry rock figures is unknown.
+        They probably represent the four emperors of the eastern and western Roman empires.
+        The statue was pillaged from Constantinople during the Fourth Crusade in 1204.
+        \n6.Treasury
+        The basilica’s glittering riches include precious chalices of rock crystal enamelled
+        by medieval silver- and goldsmiths and reliquaries from Venice’s eastern conquests,
+        including parts of the True Cross.
+        \n7.Ascension Dome
+        The central dome has a spectacular array of early 13th-century mosaics, depicting the New Testament.
+        Christ in Glory is shown above depictions of the Virtues.
+    </string>
+
+    <string name="dogespalace_phone">041 270 8311</string>
+    <string name="dogespalace_url">www.basilicasanmarco.it</string>
+    <string name="dogespalace_description">The breathtaking Byzantine basilica dominating Piazza San Marco was constructed
+        in such ornate fashion for two reasons: as an embodiment of the Venetian Republic’s power and as a fitting resting
+        place for St Mark. Serving as the doges’ chapel, it was the site of coronations, funerals and processions,
+        all gloriously framed by more than 4,000 sq m (43,000 sq ft) of mosaics, eastern treasures and 500 columns,
+        some dating back to the 3rd century.
+        \n1. Western Façade
+        \nA marvellous succession of domes, columns, arches and spires, interspersed with marble statues,
+        screens and glittering mosaics, greets tourists in Piazza San Marco. The northernmost arch houses
+        13th-century mosaics that depict the basilica itself. Other mosaics are 17th- and 18th-century copies.
+        \n2. Atrium Mosaics
+        \nThese glorious mosaics of precious gold-leaf over glass tiles were created in the Byzantine tradition.
+    </string>
+
+    <string name="lafenice_phone">041 270 8311</string>
+    <string name="lafenice_url">www.basilicasanmarco.it</string>
+    <string name="lafenice_description">The breathtaking Byzantine basilica dominating Piazza San Marco was constructed
+        in such ornate fashion for two reasons: as an embodiment of the Venetian Republic’s power and as a fitting resting
+        place for St Mark. Serving as the doges’ chapel, it was the site of coronations, funerals and processions,
+        all gloriously framed by more than 4,000 sq m (43,000 sq ft) of mosaics, eastern treasures and 500 columns,
+        some dating back to the 3rd century.
+        \n1. Western Façade
+        \nA marvellous succession of domes, columns, arches and spires, interspersed with marble statues,
+        screens and glittering mosaics, greets tourists in Piazza San Marco. The northernmost arch houses
+        13th-century mosaics that depict the basilica itself. Other mosaics are 17th- and 18th-century copies.
+        \n2. Atrium Mosaics
+        \nThese glorious mosaics of precious gold-leaf over glass tiles were created in the Byzantine tradition.
+    </string>
+
+
+    <string name="rialto_phone">041 270 8311</string>
+    <string name="rialto_url">www.basilicasanmarco.it</string>
+    <string name="rialto_description">The breathtaking Byzantine basilica dominating Piazza San Marco was constructed
+        in such ornate fashion for two reasons: as an embodiment of the Venetian Republic’s power and as a fitting resting
+        place for St Mark. Serving as the doges’ chapel, it was the site of coronations, funerals and processions,
+        all gloriously framed by more than 4,000 sq m (43,000 sq ft) of mosaics, eastern treasures and 500 columns,
+        some dating back to the 3rd century.
+        \n1. Western Façade
+        \nA marvellous succession of domes, columns, arches and spires, interspersed with marble statues,
+        screens and glittering mosaics, greets tourists in Piazza San Marco. The northernmost arch houses
+        13th-century mosaics that depict the basilica itself. Other mosaics are 17th- and 18th-century copies.
+        \n2. Atrium Mosaics
+        \nThese glorious mosaics of precious gold-leaf over glass tiles were created in the Byzantine tradition.
+    </string>
+
+    <string name="pontedeipugni_phone">041 270 8311</string>
+    <string name="pontedeipugni_url">www.basilicasanmarco.it</string>
+    <string name="pontedeipugni_description">The breathtaking Byzantine basilica dominating Piazza San Marco was constructed
+        in such ornate fashion for two reasons: as an embodiment of the Venetian Republic’s power and as a fitting resting
+        place for St Mark. Serving as the doges’ chapel, it was the site of coronations, funerals and processions,
+        all gloriously framed by more than 4,000 sq m (43,000 sq ft) of mosaics, eastern treasures and 500 columns,
+        some dating back to the 3rd century.
+        \n1. Western Façade
+        \nA marvellous succession of domes, columns, arches and spires, interspersed with marble statues,
+        screens and glittering mosaics, greets tourists in Piazza San Marco. The northernmost arch houses
+        13th-century mosaics that depict the basilica itself. Other mosaics are 17th- and 18th-century copies.
+        \n2. Atrium Mosaics
+        \nThese glorious mosaics of precious gold-leaf over glass tiles were created in the Byzantine tradition.
+    </string>
+
+    <string name="accademia_phone">041 270 8311</string>
+    <string name="accademia_url">www.basilicasanmarco.it</string>
+    <string name="accademia_description">The breathtaking Byzantine basilica dominating Piazza San Marco was constructed
+        in such ornate fashion for two reasons: as an embodiment of the Venetian Republic’s power and as a fitting resting
+        place for St Mark. Serving as the doges’ chapel, it was the site of coronations, funerals and processions,
+        all gloriously framed by more than 4,000 sq m (43,000 sq ft) of mosaics, eastern treasures and 500 columns,
+        some dating back to the 3rd century.
+        \n1. Western Façade
+        \nA marvellous succession of domes, columns, arches and spires, interspersed with marble statues,
+        screens and glittering mosaics, greets tourists in Piazza San Marco. The northernmost arch houses
+        13th-century mosaics that depict the basilica itself. Other mosaics are 17th- and 18th-century copies.
+        \n2. Atrium Mosaics
+        \nThese glorious mosaics of precious gold-leaf over glass tiles were created in the Byzantine tradition.
+    </string>
+
+    <string name="frari_phone">041 270 8311</string>
+    <string name="frari_url">www.basilicasanmarco.it</string>
+    <string name="frari_description">The breathtaking Byzantine basilica dominating Piazza San Marco was constructed
+        in such ornate fashion for two reasons: as an embodiment of the Venetian Republic’s power and as a fitting resting
+        place for St Mark. Serving as the doges’ chapel, it was the site of coronations, funerals and processions,
+        all gloriously framed by more than 4,000 sq m (43,000 sq ft) of mosaics, eastern treasures and 500 columns,
+        some dating back to the 3rd century.
+        \n1. Western Façade
+        \nA marvellous succession of domes, columns, arches and spires, interspersed with marble statues,
+        screens and glittering mosaics, greets tourists in Piazza San Marco. The northernmost arch houses
+        13th-century mosaics that depict the basilica itself. Other mosaics are 17th- and 18th-century copies.
+        \n2. Atrium Mosaics
+        \nThese glorious mosaics of precious gold-leaf over glass tiles were created in the Byzantine tradition.
+    </string>
+
+
+    <string name="fondaco_phone">041 270 8311</string>
+    <string name="fondaco_url">www.basilicasanmarco.it</string>
+    <string name="fondaco_description">The breathtaking Byzantine basilica dominating Piazza San Marco was constructed
+        in such ornate fashion for two reasons: as an embodiment of the Venetian Republic’s power and as a fitting resting
+        place for St Mark. Serving as the doges’ chapel, it was the site of coronations, funerals and processions,
+        all gloriously framed by more than 4,000 sq m (43,000 sq ft) of mosaics, eastern treasures and 500 columns,
+        some dating back to the 3rd century.
+        \n1. Western Façade
+        \nA marvellous succession of domes, columns, arches and spires, interspersed with marble statues,
+        screens and glittering mosaics, greets tourists in Piazza San Marco. The northernmost arch houses
+        13th-century mosaics that depict the basilica itself. Other mosaics are 17th- and 18th-century copies.
+        \n2. Atrium Mosaics
+        \nThese glorious mosaics of precious gold-leaf over glass tiles were created in the Byzantine tradition.
+    </string>
+
+
+
+
+
+
+    <string-array name="sightseeing_phone_array">
+        <item>041 270 8311</item>
+        <item>041 271 5911</item>
+        <item>041 786 672</item>
+        <item>041 529 7811</item>
+        <item>041 529 7811</item>
+        <item>041 520 0345</item>
+        <item>041 275 0462</item>
+        <item>041 314 2000</item>
+    </string-array>
+
+    <string-array name="sightseeing_url_array">
+        <item>041 270 8311</item>
+        <item>041 271 5911</item>
+        <item>041 786 672</item>
+        <item>041 529 7811</item>
+        <item>041 529 7811</item>
+        <item>041 520 0345</item>
+        <item>041 275 0462</item>
+        <item>041 314 2000</item>
+    </string-array>
+    <string-array name="sightseeing_description_array">
+        <item>041 270 8311</item>
+        <item>041 271 5911</item>
+        <item>041 786 672</item>
+        <item>041 529 7811</item>
+        <item>041 529 7811</item>
+        <item>041 520 0345</item>
+        <item>041 275 0462</item>
+        <item>041 314 2000</item>
+    </string-array>
+
+
 </resources>
