@@ -70,8 +70,8 @@ public class Location implements Parcelable {
      * @param phone is the telephone number of the location;
      * @param url is the web site of the location
      */
-    public Location(String locationName, String locationAddress, int imageResourceId, String locationDescription, String phone,
-                    String url) {
+    public Location(String locationName, String locationAddress, int imageResourceId, String phone,
+                    String url, String locationDescription) {
         mLocationName = locationName;
         mLocationAddress = locationAddress;
         mImageResourceId = imageResourceId;

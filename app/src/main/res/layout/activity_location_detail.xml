@@ -1,7 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
+    android:layout_height="wrap_content"
+    android:fillViewport="true"
     tools:context="com.example.android.venicetourguide.LocationDetailActivity"
     xmlns:tools="http://schemas.android.com/tools">
 
@@ -31,28 +32,6 @@
             tools:text="@string/basilica" />
 
         <LinearLayout
-            android:id="@+id/info"
-            android:layout_width="wrap_content"
-            android:layout_height="wrap_content"
-            android:layout_below="@id/location_image"
-            android:orientation="vertical"
-            android:padding="@dimen/large_padding">
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:src="@drawable/ic_location"/>
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:src="@drawable/ic_phone"
-                android:paddingTop="@dimen/default_padding"/>
-            <ImageView
-                android:layout_width="wrap_content"
-                android:layout_height="match_parent"
-                android:src="@drawable/ic_url"
-                android:paddingTop="@dimen/default_padding"/>
-        </LinearLayout>
-        <LinearLayout
             android:id="@+id/info2"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
@@ -63,20 +42,26 @@
                 android:id="@+id/location_address"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:paddingLeft="@dimen/xlarge_padding"
+                android:drawableLeft="@drawable/ic_location"
+                android:drawablePadding="@dimen/default_padding"
+                android:paddingLeft="@dimen/default_padding"
                 tools:text="@string/basilica_address" />
             <TextView
                 android:id="@+id/location_phone"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:paddingLeft="@dimen/xlarge_padding"
+                android:drawableLeft="@drawable/ic_phone"
+                android:drawablePadding="@dimen/default_padding"
+                android:paddingLeft="@dimen/default_padding"
                 android:paddingTop="@dimen/default_padding"
                 tools:text="@string/basilica_phone" />
             <TextView
                 android:id="@+id/location_url"
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
-                android:paddingLeft="@dimen/xlarge_padding"
+                android:drawableLeft="@drawable/ic_url"
+                android:drawablePadding="@dimen/default_padding"
+                android:paddingLeft="@dimen/default_padding"
                 android:paddingTop="@dimen/default_padding"
                 tools:text="@string/basilica_url" />
 
@@ -84,11 +69,11 @@
 
         <TextView
             android:id="@+id/location_description"
-            android:layout_below="@id/info"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:paddingTop="@dimen/default_padding"
+            android:layout_marginTop="@dimen/xlarge_padding"
             android:layout_marginLeft="@dimen/default_padding"
+            android:layout_marginRight="@dimen/default_padding"
             tools:text="@string/basilica_description" />
     </RelativeLayout>
 </ScrollView>

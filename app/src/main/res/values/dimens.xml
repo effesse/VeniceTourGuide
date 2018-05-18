@@ -5,6 +5,6 @@
     <dimen name="default_padding">8dp</dimen>
     <dimen name="large_padding">16dp</dimen>
     <dimen name="thumbnail_width">130dp</dimen>
-    <dimen name="xlarge_padding">32dp</dimen>
+    <dimen name="xlarge_padding">330dp</dimen>
 
 </resources>
