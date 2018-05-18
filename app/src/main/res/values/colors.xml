@@ -10,14 +10,14 @@
     <color name="white_background">#ffffff</color>
 
     <!-- Background color for the sightseeing category -->
-    <color name="category_sightseeing">#f49ac1</color>
+    <color name="category_sightseeing">#ffffff</color>
 
     <!-- Background color for the restaurant category -->
-    <color name="category_restaurant">#fff568</color>
+    <color name="category_restaurant">#ffffff</color>
 
     <!-- Background color for the accomodation category -->
-    <color name="category_accomodation">#acd373</color>
+    <color name="category_accomodation">#ffffff</color>
 
     <!-- Background color for the shopping category -->
-    <color name="category_shopping">#6dcff6</color>
+    <color name="category_shopping">#ffffff</color>
 </resources>
